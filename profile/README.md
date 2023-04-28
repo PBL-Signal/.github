@@ -8,7 +8,12 @@ Nodejs와 Redis를 이용하여 실시간 다중 플레이어 보안 교육 게�
 본 게임은 MITRE ATT&CK 매트릭스 기반의 공격 시나리오를 이용한 게임으로, Nodejs 서버와 WebGL기반의 개발되었습니다.   
 
 
-자세한 게임 설명은 아래 게임 소개 페이지(Notion)을 참고하시기 바랍니다.  
-감사합니다. 
+자세한 게임 설명은 아래 게임 소개 페이지(Notion)을 참고하시기 바랍니다. 
+감사합니다.
 
 [BlackNWhite 소개 페이지](https://blacknwhite-signal.notion.site/BlackNWhite-Home-f79f9cdb96f14119b3ece18eeb940f08)
+
+<sub>※ 현재 서버 비용 문제로 게임 접속이 불가합니다. 기타 문의는 아래 gmail로 연락부탁드립니다. </sub>
+<br>
+
+#### Contact <a href="mailto:blacknwhite.signal@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
